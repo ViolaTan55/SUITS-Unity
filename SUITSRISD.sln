@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{261dc3fa-793a-7fa4-0151-17453edaf3db}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.MixedReality.Toolkit.Demos.UX.Interactables", "Microsoft.MixedReality.Toolkit.Demos.UX.Interactables.csproj", "{0d724299-1aac-4d11-8ef7-438ce73d798e}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.MixedReality.Toolkit.Demos.Audio", "Microsoft.MixedReality.Toolkit.Demos.Audio.csproj", "{27564ee6-2c7d-b17c-383f-1c4f1bd215ac}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{261dc3fa-793a-7fa4-0151-17453edaf3db}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{261dc3fa-793a-7fa4-0151-17453edaf3db}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0d724299-1aac-4d11-8ef7-438ce73d798e}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0d724299-1aac-4d11-8ef7-438ce73d798e}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27564ee6-2c7d-b17c-383f-1c4f1bd215ac}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27564ee6-2c7d-b17c-383f-1c4f1bd215ac}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
